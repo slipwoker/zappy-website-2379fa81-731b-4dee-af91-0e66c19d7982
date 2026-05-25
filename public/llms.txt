@@ -1,0 +1,101 @@
+# Doron Sofer Creations — Generative Engine Optimization Map
+
+> A premium handmade artisan jewelry brand with a cinematic, dark, and minimalist visual identity. The brand emphasizes craftsmanship, material quality, and the handmade process as core storytelling elements. The aesthetic is high-end and editorial — deep blacks, silver and gold accents — evoking exclusivity and artisanal heritage. The e-commerce experience is designed to feel like a luxury boutique, with smooth interactions, hover animations, and a slide-out cart for a seamless shopping flow.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover handcrafted pearl necklace urban designs and lab grown diamond engagement rings that redefine luxury. Shop Doron Sofer Creations and own something extraordinary.
+
+### Craftsmanship
+https://example.com/craftsmanship
+Every amethyst jewelry piece and get back necklace is shaped through meticulous artisan technique. Explore the handmade process behind Doron Sofer&#39;s signature dark luxury aesthetic.
+
+### Gallery
+https://example.com/gallery
+Browse an editorial gallery of get back necklaces, amethyst jewelry, and pearl necklace urban styles shot in cinematic black and silver. Let the visuals move you to your next statement piece.
+
+### Contact
+https://example.com/contact
+Ready to commission lab grown diamond engagement rings or a bespoke pearl necklace urban design? Reach out to Doron Sofer Creations and let&#39;s craft something made only for you.
+
+### Products
+https://example.com/products
+Our Products - Doron Sofer Creations
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Doron Sofer Creations
+
+### Category
+https://example.com/category/:slug
+Products - Doron Sofer Creations
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Doron Sofer Creations
+A premium handmade artisan jewelry brand with a cinematic, dark, and minimalist visual identity. The brand emphasizes craftsmanship, material quality, and the handmade process as core storytelling elements. The aesthetic is high-end and editorial — deep blacks, silver and gold accents — evoking exclusivity and artisanal heritage. The e-commerce experience is designed to feel like a luxury boutique, with smooth interactions, hover animations, and a slide-out cart for a seamless shopping flow.
+
+## Target Audience
+- luxury jewelry buyers, artisan craft lovers
+- Luxury Jewelry Collectors
+- Artisan Craft Enthusiasts
+- Conscious Consumers
+
+## Industry
+E-commerce / Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
